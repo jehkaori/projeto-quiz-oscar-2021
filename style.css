@@ -1,0 +1,65 @@
+body{
+    background-image:url("img/background.jpg") ;
+    background-color: black;
+    background-size:cover;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-repeat: no-repeat;
+}
+
+main{
+    width:50%;
+    margin:100px;
+    text-align: center;
+}
+
+#boasVindas{
+    text-align: left;
+    margin-top: 50px;
+    text-align: center;
+}
+
+#boasVindas h2{
+    line-height: 20px;
+}
+
+
+button{
+    text-align: center;
+    margin-top: 40px;
+    padding: 20px;
+    font-weight: bold;
+    border-radius: 20px;
+    color: rgb(49, 45, 45);
+    background-color:white;
+}
+
+#container{
+    display:flex;
+    justify-content: space-between;
+    height:auto;
+
+}
+
+#corretas{
+    width:45%;
+    background-color: rgba(128, 128, 128, 0.787);
+    border-radius: 10px;
+}
+
+#corretas h3{
+    color:lime;
+}
+
+#erradas h3{
+    color:rgb(175, 29, 29);
+}
+
+#erradas{
+    width:45%;
+    background-color: rgba(128, 128, 128, 0.787);
+    border-radius: 10px;
+}
+
+
+

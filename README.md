@@ -1,1 +1,7 @@
-# projeto-quiz-oscar-2021
+# Oscar Quiz 
+
+## Sobre
+Projeto criado como parte do processo de admissão da Laboratória
+
+
+
